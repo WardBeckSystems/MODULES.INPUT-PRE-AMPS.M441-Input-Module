@@ -4,13 +4,13 @@ Ward-Beck Systems M441, 1970|3. Wiki page: [M441 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 56 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 43 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 29 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 57 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 44 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 5 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 27 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 56 |
 
 ## Photos
@@ -26,12 +26,10 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVnlVZ3lBSDQyY1E/view?resourcekey=0-cfHLuU6W47WuqMh-7ivM6Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVnlVZ3lBSDQyY1E&resourcekey=0-cfHLuU6W47WuqMh-7ivM6Q" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.51.58 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.51.58 PM</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWUFNanAzVUQ2M28/view?resourcekey=0-fKZKKFuuV7X2PL-fiUGZdQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWUFNanAzVUQ2M28&resourcekey=0-fKZKKFuuV7X2PL-fiUGZdQ" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.03 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.03 PM</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQk9JeVZ4bTNlS2M/view?resourcekey=0-EeZxABmYRZqSHty07EKfqw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQk9JeVZ4bTNlS2M&resourcekey=0-EeZxABmYRZqSHty07EKfqw" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.10 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.10 PM</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTjdvNVJnVlNWWnM/view?resourcekey=0-wmNeRtIidmxBGh5fzziICA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTjdvNVJnVlNWWnM&resourcekey=0-wmNeRtIidmxBGh5fzziICA" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.15 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.15 PM</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVGNaemlaV2todjA/view?resourcekey=0-wxlpUoT6Jwo0bGsfC6VKsw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVGNaemlaV2todjA&resourcekey=0-wxlpUoT6Jwo0bGsfC6VKsw" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.22 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.22 PM</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKck8wcTBaM0ppRGs/view?resourcekey=0-HXXgHXp16eEDHD0D33iG1Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKck8wcTBaM0ppRGs&resourcekey=0-HXXgHXp16eEDHD0D33iG1Q" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.30 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.30 PM</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcGVpeUphYVREZVE/view?resourcekey=0-zwnUatETjbe_xMiI1jtgSA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcGVpeUphYVREZVE&resourcekey=0-zwnUatETjbe_xMiI1jtgSA" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.36 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.36 PM</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLXIxTzBPbkczYUE/view?resourcekey=0-wpJgKzE6UwS_Ki3VALREtg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLXIxTzBPbkczYUE&resourcekey=0-wpJgKzE6UwS_Ki3VALREtg" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.44 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.44 PM</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYmYxVzZYM29kcE0/view?resourcekey=0-Gbl_g8225e_trz17KZizxg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYmYxVzZYM29kcE0&resourcekey=0-Gbl_g8225e_trz17KZizxg" width="240" alt="1971 - M441 - Screen Shot 2013-03-27 at 10.52.50 PM.png"></a><br><sub>1971|4 · Screen Shot 2013-03-27 at 10.52.50 PM</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbHpHb2ZuSG0xUHc/view?resourcekey=0-9Rb2dDg568FF0B7AqzZxOw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbHpHb2ZuSG0xUHc&resourcekey=0-9Rb2dDg568FF0B7AqzZxOw" width="240" alt="1971 - M441 - Ward Beck Systems M441 2.jpg"></a><br><sub>1971|4 · Ward Beck Systems M441 2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVXRaUnNRdm8wTlE/view?resourcekey=0-CaZZbYfbqRKnGQ-m3NSWRQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVXRaUnNRdm8wTlE&resourcekey=0-CaZZbYfbqRKnGQ-m3NSWRQ" width="240" alt="1971 - M441 - Ward Beck Systems M441.jpg"></a><br><sub>1971|4 · Ward Beck Systems M441</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKR0g2N1hTbmJnYU0/view?resourcekey=0-XTkqWGVJAuZfMEvdl4KTSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKR0g2N1hTbmJnYU0&resourcekey=0-XTkqWGVJAuZfMEvdl4KTSw" width="240" alt="1971 - M441 - wbsps - module - m441 - pre amp - td.jpg"></a><br><sub>1971|4 · wbsps - module - m441 - pre amp - td</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKR0g2N1hTbmJnYU0/view?resourcekey=0-XTkqWGVJAuZfMEvdl4KTSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKR0g2N1hTbmJnYU0&resourcekey=0-XTkqWGVJAuZfMEvdl4KTSw" width="240" alt="1971 - M441 - wbsps - module - m441 - pre amp - td.jpg"></a><br><sub>1971|4 · wbsps - module - m441 - pre amp - td</sub></td></tr>
 </table>
 
 Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - module - m441 - pre amp - td_small](https://drive.google.com/file/d/0B0yR0b5T78SKcUJENFhHYzBacjg/view?resourcekey=0-ACsvEKko7AzEa5IpgXuCPQ)
-
-Not on Google Drive yet: `Ward Beck Systems M441 2.jpg`
 
 ## Mechanical
 
@@ -62,8 +60,10 @@ Not on Google Drive yet: `1973 - 441-02-013 - DRN GP.jpg`, `19xx - 441-02-013 - 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1c9Wg4J92fCnCwR9T8vNAzdVHnU5b5mii/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1c9Wg4J92fCnCwR9T8vNAzdVHnU5b5mii" width="240" alt="1973 - M441 - DOC - 2021-3-21-17-20-52.jpg"></a><br><sub>1973|6 · DOC - 2021-3-21-17-20-52</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbHpHb2ZuSG0xUHc/view?resourcekey=0-9Rb2dDg568FF0B7AqzZxOw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbHpHb2ZuSG0xUHc&resourcekey=0-9Rb2dDg568FF0B7AqzZxOw" width="240" alt="1971 - M441 - Ward Beck Systems M441 2.jpg"></a><br><sub>1971|4 · Ward Beck Systems M441 2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVXRaUnNRdm8wTlE/view?resourcekey=0-CaZZbYfbqRKnGQ-m3NSWRQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVXRaUnNRdm8wTlE&resourcekey=0-CaZZbYfbqRKnGQ-m3NSWRQ" width="240" alt="1971 - M441 - Ward Beck Systems M441.jpg"></a><br><sub>1971|4 · Ward Beck Systems M441</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1c9Wg4J92fCnCwR9T8vNAzdVHnU5b5mii/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1c9Wg4J92fCnCwR9T8vNAzdVHnU5b5mii" width="240" alt="1973 - M441 - DOC - 2021-3-21-17-20-52.jpg"></a><br><sub>1973|6 · DOC - 2021-3-21-17-20-52</sub></td></tr>
 </table>
+
+Not on Google Drive yet: `Ward Beck Systems M441 2.jpg`
 
 ## KiCad
 
@@ -83,6 +83,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4.kicad_sch](KICAD/19xx%20-%20441-02-003%20-%20M441B%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%204.kicad_sch)
 - [19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3.kicad_sch](KICAD/19xx%20-%20441-02-013%20-%20EL%20AMPLIFIER%20...EMATIC%20(partial%3B%20model%20text%20...411M)%20-%20ISS%203.kicad_sch)
 - [M441.kicad_sym](KICAD/M441.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

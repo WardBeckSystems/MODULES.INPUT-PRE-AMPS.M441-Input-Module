@@ -37,7 +37,7 @@ OFF
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441/PHOTOS/1971 - M441 - Ward Beck Systems M441.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441/MANUALS/1971 - M441 - Ward Beck Systems M441.jpg",
  "sha256": "948ef750c9c34f7f5f6ddff3ca3ffa79eea0cb31c96f1df53358a75c75d5a38f",
  "kind": "module",
  "models": [
