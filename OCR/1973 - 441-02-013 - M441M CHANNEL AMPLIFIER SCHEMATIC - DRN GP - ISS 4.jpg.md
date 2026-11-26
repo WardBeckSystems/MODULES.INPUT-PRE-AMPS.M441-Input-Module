@@ -37,7 +37,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Title block:** (348, 6)–(385, 28) mm: WBS · IScALE
 - **Wiring (first pass):** 83 connected wire groups from 721 runs, 2 dotted junctions; labelled ends: 413 mm → PC I8i, LTD, IScALE; 201 mm → BN8{, 848, 290, 5428; 126 mm → 25, 290, 5428, switch; 122 mm → 75; 88 mm → 0255, 75
 
-Every curve, box, word and wire group: [1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4 (traced).json](../SCHEMATICS/1973%20-%20441-02-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204%20(traced).json) (the CAD file: `1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4 (traced).json](../SCHEMATICS/1973%20-%20441-02-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4 (traced).dxf`).
 
 ## Full text
 

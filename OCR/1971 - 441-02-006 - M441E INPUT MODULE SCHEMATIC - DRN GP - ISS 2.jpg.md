@@ -37,7 +37,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Title block:** (373, 15)–(424, 26) mm: WARD · BECK SYSTELS · M44
 - **Wiring (first pass):** 99 connected wire groups from 715 runs, 6 dotted junctions; labelled ends: 184 mm → WARD; 43 mm → 47k<, 295; 40 mm → 884401, ZNsiat, 47k<, 295; 33 mm → 884401; 25 mm → CUE Sw, Sw 3
 
-Every curve, box, word and wire group: [1971 - 441-02-006 - M441E INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20441-02-006%20-%20M441E%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 441-02-006 - M441E INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-02-006 - M441E INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20441-02-006%20-%20M441E%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 441-02-006 - M441E INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).dxf`).
 
 ## Full text
 

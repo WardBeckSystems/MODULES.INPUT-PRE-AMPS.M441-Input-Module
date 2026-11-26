@@ -34,7 +34,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 56 in 50 lines: 22r · +487 · PHASE SWITcH · 100/25 Nofes · G2Op · R7S R2zg · Groue DEIYEE · 145137 · 814461 · 643 · tw 37 · HATED
 - **Wiring (first pass):** 166 connected wire groups from 1,047 runs; labelled ends: 175 mm → 709; 104 mm → 882; 58 mm → A39, X4k7; 45 mm → PHASE SWITcH; 39 mm → 709
 
-Every curve, box, word and wire group: [1970 - 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG (traced).json](../SCHEMATICS/1970%20-%20441-02-002%20-%20M441A%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20DJG%20(traced).json) (the CAD file: `1970 - 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG (traced).json](../SCHEMATICS/1970%20-%20441-02-002%20-%20M441A%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20DJG%20%28traced%29.json) (the CAD file: `1970 - 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG (traced).dxf`).
 
 ## Full text
 

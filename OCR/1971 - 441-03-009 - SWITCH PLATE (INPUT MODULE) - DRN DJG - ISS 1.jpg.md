@@ -37,7 +37,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 43 in 37 lines: 4500 · -2.875 · 2.062 · 432 · 106z · HOLES · 093DIA · 1.435 · 120 · 1.05 · '810 · 592 _
 - **Title block:** (317, 48)–(377, 70) mm: WARd · BECK
 
-Every curve, box, word and wire group: [1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1 (traced).json](../MECHANICAL/1971%20-%20441-03-009%20-%20SWITCH%20PLATE%20(INPUT%20MODULE)%20-%20DRN%20DJG%20-%20ISS%201%20(traced).json) (the CAD file: `1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1 (traced).json](../MECHANICAL/1971%20-%20441-03-009%20-%20SWITCH%20PLATE%20%28INPUT%20MODULE%29%20-%20DRN%20DJG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1 (traced).dxf`).
 
 ## Full text
 

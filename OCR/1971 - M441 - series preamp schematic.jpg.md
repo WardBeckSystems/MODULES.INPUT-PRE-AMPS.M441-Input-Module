@@ -11,6 +11,19 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Size:** 3,470,244 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 334 mm, 2000 × 1546 px traced (0.216 mm/px), turned 90°
+- **Ink extent:** 0–429 mm across, 0–334 mm up
+- **Outlines:** line 1,438 rings, 13,928 straight (15,559 mm) / 3,039 curved (3,709 mm); text 351 rings, 2,143 straight (1,740 mm) / 705 curved (847 mm)
+- **Centre lines:** 12,428 paths (213 closed); straight 10,470 mm, curved 467 mm; horizontal 3,619 mm, vertical 2,451 mm, diagonal 4,400 mm
+- **Circles and arcs:** 16 circles, 97 arcs; largest r 3.8 @ (355.7, 223.4), r 3.8 @ (137.0, 174.1), r 3.8 @ (209.2, 161.3), r 3.7 @ (365.2, 213.8)
+- **Closed boxes:** 13
+- **Dots (junctions):** 3
+- **Wiring (first pass):** 114 connected wire groups from 1,058 runs, 1 dotted junctions
+
+Every curve, box, word and wire group: [1971 - M441 - series preamp schematic (traced).json](../SCHEMATICS/1971%20-%20M441%20-%20series%20preamp%20schematic%20%28traced%29.json) (the CAD file: `1971 - M441 - series preamp schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

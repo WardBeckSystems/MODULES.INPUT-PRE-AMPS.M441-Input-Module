@@ -38,7 +38,7 @@ Mechanical detail of a cover mounting plate.
 - **Closed boxes:** 1
 - **Words (OCR):** 72 in 56 lines: 5.74 · HOLES 4-40 · UNC TAD · 813 · 4.50 · 3.950 · 3.42 · 29 · 72 · 350 · 39 · 1.43
 
-Every curve, box, word and wire group: [1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3 (traced).json](../MECHANICAL/1971%20-%20441-03-007%20-%20COVER%20MTG%20PLATE%20M441E%20-%20DRN%20WWH%20-%20ISS%203%20(traced).json) (the CAD file: `1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3 (traced).json](../MECHANICAL/1971%20-%20441-03-007%20-%20COVER%20MTG%20PLATE%20M441E%20-%20DRN%20WWH%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3 (traced).dxf`).
 
 ## Full text
 

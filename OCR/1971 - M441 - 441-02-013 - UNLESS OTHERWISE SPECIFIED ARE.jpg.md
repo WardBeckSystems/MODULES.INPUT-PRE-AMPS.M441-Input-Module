@@ -21,7 +21,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Closed boxes:** 3
 - **Wiring (first pass):** 53 connected wire groups from 415 runs
 
-Every curve, box, word and wire group: [1971 - M441 - 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE (traced).json](../SCHEMATICS/1971%20-%20M441%20-%20441-02-013%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20ARE%20(traced).json) (the CAD file: `1971 - M441 - 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M441 - 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE (traced).json](../SCHEMATICS/1971%20-%20M441%20-%20441-02-013%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20ARE%20%28traced%29.json) (the CAD file: `1971 - M441 - 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE (traced).dxf`).
 
 ## Full text
 

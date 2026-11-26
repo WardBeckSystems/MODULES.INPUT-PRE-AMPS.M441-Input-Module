@@ -33,7 +33,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 20 in 18 lines: 8144c1 · 13 · 2335 · 4997 · JEVERE · Swza · 3*22 · Z1B · 67, · ~8p · R219 · SMTCFEF
 - **Wiring (first pass):** 159 connected wire groups from 921 runs; labelled ends: 108 mm → 13; 79 mm → 13, 4997; 64 mm → 13; 64 mm → 8144c1; 46 mm → Swza
 
-Every curve, box, word and wire group: [19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20441-02-003%20-%20M441B%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%204%20(traced).json) (the CAD file: `19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20441-02-003%20-%20M441B%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%204%20%28traced%29.json) (the CAD file: `19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4 (traced).dxf`).
 
 ## Full text
 

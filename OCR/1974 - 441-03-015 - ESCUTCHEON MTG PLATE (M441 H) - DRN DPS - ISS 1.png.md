@@ -34,7 +34,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 76 in 53 lines: 5.74 · NoTes · 58 · REMOve ALL · SHARP Edees · 29 · PART Ne 441 ois To Be · permanentLy · MARKED · Aproximate · Position Shown · IN . (2 Hich
 - **Title block:** (148, 16)–(411, 67) mm: ISS · MOD  CKD · USED ON · MATL · B441-03 614 · AL. ALLOY; Ilco-4i4 · WBS WARD-BECK systeMs LTD · M44 · 14 GA (. 064) · DRN: · D-RS · FINISH · DATE 12.MAE: 74 · ESCUTCHEON MTG PLATE · 74 · (m441 A) · 
 
-Every curve, box, word and wire group: [1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1 (traced).json](../MECHANICAL/1974%20-%20441-03-015%20-%20ESCUTCHEON%20MTG%20PLATE%20(M441%20H)%20-%20DRN%20DPS%20-%20ISS%201%20(traced).json) (the CAD file: `1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1 (traced).json](../MECHANICAL/1974%20-%20441-03-015%20-%20ESCUTCHEON%20MTG%20PLATE%20%28M441%20H%29%20-%20DRN%20DPS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1 (traced).dxf`).
 
 ## Full text
 

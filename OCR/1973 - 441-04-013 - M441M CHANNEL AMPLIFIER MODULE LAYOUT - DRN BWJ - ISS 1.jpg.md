@@ -31,7 +31,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 5.6 @ (338.1, 172.5), r 5.6 @ (338.2, 215.0), r 2.9 @ (75.1, 110.9), r 2.9 @ (110.1, 233.0)
 - **Closed boxes:** 30
 
-Every curve, box, word and wire group: [1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1 (traced).json](../MECHANICAL/1973%20-%20441-04-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20MODULE%20LAYOUT%20-%20DRN%20BWJ%20-%20ISS%201%20(traced).json) (the CAD file: `1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1 (traced).json](../MECHANICAL/1973%20-%20441-04-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20MODULE%20LAYOUT%20-%20DRN%20BWJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

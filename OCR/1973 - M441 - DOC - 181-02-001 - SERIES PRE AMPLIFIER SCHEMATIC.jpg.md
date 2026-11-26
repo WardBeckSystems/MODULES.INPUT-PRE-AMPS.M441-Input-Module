@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (350, 8)–(411, 31) mm: WBS WAAD-BeCK ByeteMB LTD · M44i Series · SCHEMATIC · SCALE
 - **Wiring (first pass):** 113 connected wire groups from 861 runs; labelled ends: 310 mm → Rag}, 2N4037, R4o, 4k7; 285 mm → WSEDror; 131 mm → (BOOSTER, FOLCAACk, Leve, REVERB Switch; 124 mm → (BOOSTER, FOLCAACk, Leve, REVERB Switch; 88 mm → Ras} %3, 832
 
-Every curve, box, word and wire group: [1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1973%20-%20M441%20-%20DOC%20-%20181-02-001%20-%20SERIES%20PRE%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1973%20-%20M441%20-%20DOC%20-%20181-02-001%20-%20SERIES%20PRE%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

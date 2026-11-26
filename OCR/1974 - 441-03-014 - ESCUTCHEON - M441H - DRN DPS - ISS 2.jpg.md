@@ -34,7 +34,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 86 in 63 lines: 53 · 6.625 · 4-s0 · 26 · Holes .(56 DiA · 18 Deep · From Opp SidE · 50 DIA · 2 HoLes 8-32 ThD · c'sk 32 70 · "23DIA · See
 - **Title block:** (61, 17)–(413, 67) mm: Sc raTChES. · showN · 09 High · ISS MOD IcKD · USED ON · p9s · WBS WARD-BECK · SYSTEMS LtD · SpEc · (2006 · 963 · Maalh · WBs · 2 45 · Thick · BLACK · DRN DP9 · FINISH · [DATE 9 MAZ 74 · ESCUTCHEON -M
 
-Every curve, box, word and wire group: [1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2 (traced).json](../MECHANICAL/1974%20-%20441-03-014%20-%20ESCUTCHEON%20-%20M441H%20-%20DRN%20DPS%20-%20ISS%202%20(traced).json) (the CAD file: `1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2 (traced).json](../MECHANICAL/1974%20-%20441-03-014%20-%20ESCUTCHEON%20-%20M441H%20-%20DRN%20DPS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2 (traced).dxf`).
 
 ## Full text
 

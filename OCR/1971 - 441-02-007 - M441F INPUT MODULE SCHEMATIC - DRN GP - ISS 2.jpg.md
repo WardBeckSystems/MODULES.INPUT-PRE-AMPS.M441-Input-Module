@@ -35,7 +35,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 33 in 28 lines: 244923 · +40v · SMTCH · NoTE · 182 · HTATED · Tw 57 Ohts · [ieqto T8 · Outm · 2535 · Reitt · REMOTL TURAET CONTFO
 - **Wiring (first pass):** 135 connected wire groups from 960 runs, 7 dotted junctions; labelled ends: 162 mm → Swec; 127 mm → Sw2d Re; 91 mm → SMTCH; 78 mm → T8; 71 mm → LiD:, Finish
 
-Every curve, box, word and wire group: [1971 - 441-02-007 - M441F INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20441-02-007%20-%20M441F%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 441-02-007 - M441F INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-02-007 - M441F INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20441-02-007%20-%20M441F%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 441-02-007 - M441F INPUT MODULE SCHEMATIC - DRN GP - ISS 2 (traced).dxf`).
 
 ## Full text
 

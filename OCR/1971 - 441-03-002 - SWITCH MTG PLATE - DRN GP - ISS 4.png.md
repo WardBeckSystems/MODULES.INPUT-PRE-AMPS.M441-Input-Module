@@ -37,7 +37,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Words (OCR):** 51 in 35 lines: 54 · 813 · 4.500 · 3.416 · 2.041 · HoLE 130 DIA · HOLE 32 DIA · 1-500 · 2 HOLES 4-40unC ThD: · 250 · 570 · "625
 - **Title block:** (320, 43)–(414, 67) mm: WARd · BECK _ SVSIENS ATD
 
-Every curve, box, word and wire group: [1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4 (traced).json](../MECHANICAL/1971%20-%20441-03-002%20-%20SWITCH%20MTG%20PLATE%20-%20DRN%20GP%20-%20ISS%204%20(traced).json) (the CAD file: `1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4 (traced).json](../MECHANICAL/1971%20-%20441-03-002%20-%20SWITCH%20MTG%20PLATE%20-%20DRN%20GP%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4 (traced).dxf`).
 
 ## Full text
 

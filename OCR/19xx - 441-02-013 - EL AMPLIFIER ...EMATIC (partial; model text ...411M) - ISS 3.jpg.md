@@ -32,7 +32,7 @@ Rotated faint copy of a channel amplifier schematic with title block at right.
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 88 connected wire groups from 650 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20441-02-013%20-%20EL%20AMPLIFIER%20...EMATIC%20(partial%3B%20model%20text%20...411M)%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20441-02-013%20-%20EL%20AMPLIFIER%20...EMATIC%20%28partial%3B%20model%20text%20...411M%29%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3 (traced).dxf`).
 
 ## Full text
 

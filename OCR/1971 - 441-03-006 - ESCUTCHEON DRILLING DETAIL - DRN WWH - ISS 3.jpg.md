@@ -34,7 +34,7 @@ Drilling detail of an escutcheon plate.
 - **Closed boxes:** 1
 - **Words (OCR):** 86 in 62 lines: 6.62 · 4500 · DRILL · 4 TAP · 8-32 UNC · c'sk 820 To ,250 DIA · 3.416 · 531 · Holes · 1.062 · 265 · 350
 
-Every curve, box, word and wire group: [1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3 (traced).json](../MECHANICAL/1971%20-%20441-03-006%20-%20ESCUTCHEON%20DRILLING%20DETAIL%20-%20DRN%20WWH%20-%20ISS%203%20(traced).json) (the CAD file: `1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3 (traced).json](../MECHANICAL/1971%20-%20441-03-006%20-%20ESCUTCHEON%20DRILLING%20DETAIL%20-%20DRN%20WWH%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3 (traced).dxf`).
 
 ## Full text
 

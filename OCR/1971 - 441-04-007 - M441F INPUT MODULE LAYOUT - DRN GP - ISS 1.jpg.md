@@ -32,7 +32,7 @@ Wiki page: [M441](../../../../PAGES/M441.md)
 - **Dots (junctions):** 3
 - **Words (OCR):** 3 in 3 lines: 61 · 3 9 · e3
 
-Every curve, box, word and wire group: [1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1 (traced).json](../MECHANICAL/1971%20-%20441-04-007%20-%20M441F%20INPUT%20MODULE%20LAYOUT%20-%20DRN%20GP%20-%20ISS%201%20(traced).json) (the CAD file: `1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1 (traced).json](../MECHANICAL/1971%20-%20441-04-007%20-%20M441F%20INPUT%20MODULE%20LAYOUT%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1 (traced).dxf`).
 
 ## Full text
 

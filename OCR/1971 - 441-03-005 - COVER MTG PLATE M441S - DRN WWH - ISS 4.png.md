@@ -36,7 +36,7 @@ Mechanical drawing of a cover mounting plate, title block at bottom right.
 - **Words (OCR):** 85 in 69 lines: 5.74 · 81 · 4.50 · 3.350 · 2 HoLes · 4-40 unc ThD; · 3.42 · 57 · 700 · 1,62 · 350- · 395
 - **Title block:** (259, 22)–(379, 62) mm: PLACES · Angles WARd · BECK SVSTEMS · DRN W.W Ha · COVER MTG · DATE 21 · SEpT · M44 = · 07 · CHKD
 
-Every curve, box, word and wire group: [1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4 (traced).json](../MECHANICAL/1971%20-%20441-03-005%20-%20COVER%20MTG%20PLATE%20M441S%20-%20DRN%20WWH%20-%20ISS%204%20(traced).json) (the CAD file: `1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4 (traced).json](../MECHANICAL/1971%20-%20441-03-005%20-%20COVER%20MTG%20PLATE%20M441S%20-%20DRN%20WWH%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4 (traced).dxf`).
 
 ## Full text
 
