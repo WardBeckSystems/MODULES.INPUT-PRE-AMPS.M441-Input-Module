@@ -1,17 +1,17 @@
-# M441 · Input Pre Amps
+# M441 Input Module · Input Pre Amps
 
 Ward-Beck Systems M441, 1970|3. Wiki page: [M441 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M441.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 57 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 44 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 59 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 48 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 27 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 56 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 17 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 52 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -35,25 +35,15 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKR0g2N1hTbmJnYU0/view?resourcekey=0-XTkqWGVJAuZfMEvdl4KTSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKR0g2N1hTbmJnYU0&resourcekey=0-XTkqWGVJAuZfMEvdl4KTSw" width="240" alt="1971 - M441 - wbsps - module - m441 - pre amp - td.jpg"></a><br><sub>1971|4 · wbsps - module - m441 - pre amp - td</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - module - m441 - pre amp - td_small](https://drive.google.com/file/d/0B0yR0b5T78SKcUJENFhHYzBacjg/view?resourcekey=0-ACsvEKko7AzEa5IpgXuCPQ)
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/12Gl9IaPWI7KSaTj--kY1qcFy8HnfgEl8/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=12Gl9IaPWI7KSaTj--kY1qcFy8HnfgEl8" width="240" alt="19xx - M441 - DOC - 441-03-014 - RAD TYP.png"></a><br><sub>19xx - M441 - DOC - 441-03-014 - RAD TYP</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/12Gl9IaPWI7KSaTj--kY1qcFy8HnfgEl8/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=12Gl9IaPWI7KSaTj--kY1qcFy8HnfgEl8" width="240" alt="19xx - M441 - DOC - 441-03-014 - RAD TYP.png"></a><br><sub>19xx - M441 - DOC - 441-03-014 - RAD TYP · <a href="MECHANICAL/19xx%20-%20M441%20-%20DOC%20-%20441-03-014%20-%20RAD%20TYP%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4.png`, `1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4.png`, `1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3.jpg`, `1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3.jpg`, `1971 - 441-03-008 - ESCUTCHEON (INPUT MODULE) - DRN DJG - ISS 1.jpg`, `1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1.jpg`, `1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1.jpg`, `1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1.jpg`, `1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2.jpg`, `1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1.png`
-
-## 3-D model
-
-[`MECHANICAL/M441.stl`](MECHANICAL/M441.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M441)
-
-- **Size:** 71.89 × 173.58 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 1 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M441 - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M441.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -63,11 +53,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/12o_MiM08neHjKkQzIhIa4C2wzHlt4inT/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=12o_MiM08neHjKkQzIhIa4C2wzHlt4inT" width="240" alt="1970 - 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG.jpg"></a><br><sub>1970|3 · 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG · <a href="SCHEMATICS/1970%20-%20441-02-002%20-%20M441A%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20DJG%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1WEpU4o6MZwhxYEx0PSFn0SusAGwwZZx9/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1WEpU4o6MZwhxYEx0PSFn0SusAGwwZZx9" width="240" alt="1971 - 441-02-004 - M441C INPUT MODULE SCHEMATIC - DRN MRW - ISS 2.jpg"></a><br><sub>1971|4 · 441-02-004 - M441C INPUT MODULE SCHEMATIC - DRN MRW - ISS 2 · <a href="SCHEMATICS/1971%20-%20441-02-004%20-%20M441C%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%202%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1l5KSqXuG61MLJ_h5jZAfkeJxjlc_xNeQ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1l5KSqXuG61MLJ_h5jZAfkeJxjlc_xNeQ" width="240" alt="1971 - 441-02-006 - M441E INPUT MODULE SCHEMATIC - DRN GP - ISS 2.jpg"></a><br><sub>1971|4 · 441-02-006 - M441E INPUT MODULE SCHEMATIC - DRN GP - ISS 2 · <a href="SCHEMATICS/1971%20-%20441-02-006%20-%20M441E%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1GuC7fgBarQFRztdIFhuL2fpR_zZKRvGz/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1GuC7fgBarQFRztdIFhuL2fpR_zZKRvGz" width="240" alt="1971 - 441-02-007 - M441F INPUT MODULE SCHEMATIC - DRN GP - ISS 2.jpg"></a><br><sub>1971|4 · 441-02-007 - M441F INPUT MODULE SCHEMATIC - DRN GP - ISS 2 · <a href="SCHEMATICS/1971%20-%20441-02-007%20-%20M441F%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMFEzM3JyWDM3Ums/view?resourcekey=0-4xnIpaZ5EDvz2xrhbU4D5A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMFEzM3JyWDM3Ums&resourcekey=0-4xnIpaZ5EDvz2xrhbU4D5A" width="240" alt="1971 - M441 - 181-02-001 (2).jpg"></a><br><sub>1971|4 · 181-02-001 (2) · <a href="SCHEMATICS/1971%20-%20M441%20-%20181-02-001%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeG9CSzZVcEZmUDA/view?resourcekey=0-Ye5iCllCMQWciizAjJwIog" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeG9CSzZVcEZmUDA&resourcekey=0-Ye5iCllCMQWciizAjJwIog" width="240" alt="1971 - M441 - 181-02-001.jpg"></a><br><sub>1971|4 · 181-02-001 · <a href="SCHEMATICS/1971%20-%20M441%20-%20181-02-001%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZ3JTd3Jzb1MtQ0k/view?resourcekey=0-RP3AmT1oizBjbl-Cte2HuA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZ3JTd3Jzb1MtQ0k&resourcekey=0-RP3AmT1oizBjbl-Cte2HuA" width="240" alt="1971 - M441 - 441-02-013 - PIN PIN PIN.jpg"></a><br><sub>1971|4 · 441-02-013 - PIN PIN PIN · <a href="SCHEMATICS/1971%20-%20M441%20-%20441-02-013%20-%20PIN%20PIN%20PIN%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUUNCNGpjRDZNamM/view?resourcekey=0-aGrJ6h3MM1SQc-x63ocDwg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUUNCNGpjRDZNamM&resourcekey=0-aGrJ6h3MM1SQc-x63ocDwg" width="240" alt="1971 - M441 - 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE.jpg"></a><br><sub>1971|4 · 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE · <a href="SCHEMATICS/1971%20-%20M441%20-%20441-02-013%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20ARE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSV9NanpRcklwSmc/view?resourcekey=0-gsk65zCS7mtD2iBwQPKlsQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSV9NanpRcklwSmc&resourcekey=0-gsk65zCS7mtD2iBwQPKlsQ" width="240" alt="1971 - M441 - 441-02-013.jpg"></a><br><sub>1971|4 · 441-02-013 · <a href="SCHEMATICS/1971%20-%20M441%20-%20441-02-013%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUDhfeG1FaHhjRXc/view?resourcekey=0-6UyB-Pat3KbuhY7m4RPDzA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUDhfeG1FaHhjRXc&resourcekey=0-6UyB-Pat3KbuhY7m4RPDzA" width="240" alt="1971 - M441 - series preamp schematic.jpg"></a><br><sub>1971|4 · series preamp schematic</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1J5vC1LXhQH_UjV2IKIgHKteX63jBi7Ab/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1J5vC1LXhQH_UjV2IKIgHKteX63jBi7Ab" width="240" alt="1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4.jpg"></a><br><sub>1973|6 · 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4 · <a href="SCHEMATICS/1973%20-%20441-02-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1xOcDc4j15M8cQ8VYMSFJ-a5u0rX9TlOo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1xOcDc4j15M8cQ8VYMSFJ-a5u0rX9TlOo" width="240" alt="1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1973|6 · DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUDhfeG1FaHhjRXc/view?resourcekey=0-6UyB-Pat3KbuhY7m4RPDzA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUDhfeG1FaHhjRXc&resourcekey=0-6UyB-Pat3KbuhY7m4RPDzA" width="240" alt="1971 - M441 - series preamp schematic.jpg"></a><br><sub>1971|4 · series preamp schematic · <a href="SCHEMATICS/1971%20-%20M441%20-%20series%20preamp%20schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1J5vC1LXhQH_UjV2IKIgHKteX63jBi7Ab/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1J5vC1LXhQH_UjV2IKIgHKteX63jBi7Ab" width="240" alt="1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4.jpg"></a><br><sub>1973|6 · 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4 · <a href="SCHEMATICS/1973%20-%20441-02-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1xOcDc4j15M8cQ8VYMSFJ-a5u0rX9TlOo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1xOcDc4j15M8cQ8VYMSFJ-a5u0rX9TlOo" width="240" alt="1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1973|6 · DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1973%20-%20M441%20-%20DOC%20-%20181-02-001%20-%20SERIES%20PRE%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/11eUauO02FbMi_J9myXUOwv9qVmj-QyFK/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=11eUauO02FbMi_J9myXUOwv9qVmj-QyFK" width="240" alt="19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4.jpg"></a><br><sub>19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4 · <a href="SCHEMATICS/19xx%20-%20441-02-003%20-%20M441B%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%204%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1973 - 441-02-013 - DRN GP.jpg`, `19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3.jpg`
 
 ## Manuals and documents
 
@@ -76,8 +64,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbHpHb2ZuSG0xUHc/view?resourcekey=0-9Rb2dDg568FF0B7AqzZxOw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbHpHb2ZuSG0xUHc&resourcekey=0-9Rb2dDg568FF0B7AqzZxOw" width="240" alt="1971 - M441 - Ward Beck Systems M441 2.jpg"></a><br><sub>1971|4 · Ward Beck Systems M441 2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVXRaUnNRdm8wTlE/view?resourcekey=0-CaZZbYfbqRKnGQ-m3NSWRQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVXRaUnNRdm8wTlE&resourcekey=0-CaZZbYfbqRKnGQ-m3NSWRQ" width="240" alt="1971 - M441 - Ward Beck Systems M441.jpg"></a><br><sub>1971|4 · Ward Beck Systems M441</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1c9Wg4J92fCnCwR9T8vNAzdVHnU5b5mii/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1c9Wg4J92fCnCwR9T8vNAzdVHnU5b5mii" width="240" alt="1973 - M441 - DOC - 2021-3-21-17-20-52.jpg"></a><br><sub>1973|6 · DOC - 2021-3-21-17-20-52</sub></td></tr>
 </table>
-
-Not on Google Drive yet: `Ward Beck Systems M441 2.jpg`
 
 ## KiCad
 
@@ -92,8 +78,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1971 - M441 - 441-02-013 - PIN PIN PIN.kicad_sch](KICAD/1971%20-%20M441%20-%20441-02-013%20-%20PIN%20PIN%20PIN.kicad_sch)
 - [1971 - M441 - 441-02-013 - UNLESS OTHERWISE SPECIFIED ARE.kicad_sch](KICAD/1971%20-%20M441%20-%20441-02-013%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20ARE.kicad_sch)
 - [1971 - M441 - 441-02-013.kicad_sch](KICAD/1971%20-%20M441%20-%20441-02-013.kicad_sch)
+- [1971 - M441 - series preamp schematic.kicad_sch](KICAD/1971%20-%20M441%20-%20series%20preamp%20schematic.kicad_sch)
 - [1973 - 441-02-013 - DRN GP.kicad_sch](KICAD/1973%20-%20441-02-013%20-%20DRN%20GP.kicad_sch)
 - [1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4.kicad_sch](KICAD/1973%20-%20441-02-013%20-%20M441M%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204.kicad_sch)
+- [1973 - M441 - DOC - 181-02-001 - SERIES PRE AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1973%20-%20M441%20-%20DOC%20-%20181-02-001%20-%20SERIES%20PRE%20AMPLIFIER%20SCHEMATIC.kicad_sch)
 - [19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4.kicad_sch](KICAD/19xx%20-%20441-02-003%20-%20M441B%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%204.kicad_sch)
 - [19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3.kicad_sch](KICAD/19xx%20-%20441-02-013%20-%20EL%20AMPLIFIER%20...EMATIC%20(partial%3B%20model%20text%20...411M)%20-%20ISS%203.kicad_sch)
 - [M441.kicad_sym](KICAD/M441.kicad_sym)
