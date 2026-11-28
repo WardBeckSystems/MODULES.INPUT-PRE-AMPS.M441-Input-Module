@@ -4,13 +4,12 @@ Ward-Beck Systems M441, 1970|3. Wiki page: [M441 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 59 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 48 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 27 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 17 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 58 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 47 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 26 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 52 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -43,7 +42,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/12Gl9IaPWI7KSaTj--kY1qcFy8HnfgEl8/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=12Gl9IaPWI7KSaTj--kY1qcFy8HnfgEl8" width="240" alt="19xx - M441 - DOC - 441-03-014 - RAD TYP.png"></a><br><sub>19xx - M441 - DOC - 441-03-014 - RAD TYP · <a href="MECHANICAL/19xx%20-%20M441%20-%20DOC%20-%20441-03-014%20-%20RAD%20TYP%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4.png`, `1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4.png`, `1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3.jpg`, `1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3.jpg`, `1971 - 441-03-008 - ESCUTCHEON (INPUT MODULE) - DRN DJG - ISS 1.jpg`, `1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1.jpg`, `1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1.jpg`, `1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1.jpg`, `1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2.jpg`, `1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1.png`
+## 3-D model
+
+[`MECHANICAL/M441.stl`](MECHANICAL/M441.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M441)
+
+- **Size:** 71.89 × 173.58 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 1 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M441 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M441.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -85,7 +90,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4.kicad_sch](KICAD/19xx%20-%20441-02-003%20-%20M441B%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%204.kicad_sch)
 - [19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3.kicad_sch](KICAD/19xx%20-%20441-02-013%20-%20EL%20AMPLIFIER%20...EMATIC%20(partial%3B%20model%20text%20...411M)%20-%20ISS%203.kicad_sch)
 - [M441.kicad_sym](KICAD/M441.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
