@@ -1,5 +1,5 @@
 # 1973 - 441-02-013 - M441M CHANNEL AMPLIFIER SCHEMATIC - DRN GP - ISS 4.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1973 (title block date)

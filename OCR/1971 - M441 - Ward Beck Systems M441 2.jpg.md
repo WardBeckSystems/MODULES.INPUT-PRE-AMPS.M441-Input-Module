@@ -1,5 +1,5 @@
 # 1971 - M441 - Ward Beck Systems M441 2.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1971 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4.png
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1971 (title block date)

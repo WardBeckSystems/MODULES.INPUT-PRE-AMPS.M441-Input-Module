@@ -1,5 +1,5 @@
 # 1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1.png
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1974 (title block date)

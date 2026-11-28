@@ -1,5 +1,5 @@
 # 1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4.png
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1971 (title block date)

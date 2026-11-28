@@ -1,6 +1,6 @@
 # M441 Input Module · Input Pre Amps
 
-Ward-Beck Systems M441, 1970|3. Wiki page: [M441 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M441.html)
+Ward-Beck Systems M441, 1970|3. Wiki page: [M441 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1971 - M441 - wbsps - module - m441 - pre amp - td.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1971 (module estimate (labelled))

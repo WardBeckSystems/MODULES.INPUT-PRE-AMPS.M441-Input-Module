@@ -1,5 +1,5 @@
 # 1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1973 (title block date)

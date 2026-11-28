@@ -1,5 +1,5 @@
 # 1970 - 441-02-002 - M441A INPUT MODULE SCHEMATIC - DRN DJG.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1970 (title block date)

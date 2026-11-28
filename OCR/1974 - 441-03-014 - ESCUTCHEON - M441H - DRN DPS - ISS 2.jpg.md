@@ -1,5 +1,5 @@
 # 1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1974 (title block date)

@@ -1,5 +1,5 @@
 # 1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1971 (title block date)

@@ -1,5 +1,5 @@
 # 1971 - 441-02-004 - M441C INPUT MODULE SCHEMATIC - DRN MRW - ISS 2.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** 1971 (title block date)

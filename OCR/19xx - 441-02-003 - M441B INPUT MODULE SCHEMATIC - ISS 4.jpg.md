@@ -1,5 +1,5 @@
 # 19xx - 441-02-003 - M441B INPUT MODULE SCHEMATIC - ISS 4.jpg
-Wiki page: [M441](../../../../PAGES/M441.md)
+Wiki page: [M441](../)
 
 
 - **Year:** unknown (title block (read by eye))
